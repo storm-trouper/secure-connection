@@ -1,0 +1,4 @@
+[package]
+name = "secure-connection"
+version = "0.0.1"
+authors = ["storm-trouper <strom-trouper@protonmail.com>"]
